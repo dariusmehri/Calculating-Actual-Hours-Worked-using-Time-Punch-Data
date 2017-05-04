@@ -1,1 +1,1 @@
-This program calculates the actual hours worked for each employee by month using City Time data. It takes into consideration leave and overtime, and corrects for duplicate punches and no-punch, in or out.
+This Python program calculates the actual hours worked for each employee by month using City Time data. It takes into consideration leave and overtime, and corrects for duplicate punches and no-punches, in or out.

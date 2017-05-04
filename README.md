@@ -1,1 +1,1 @@
-# Calculating-Actual-Hours-Worked-using-Time-Punch-Data
+This program calculates the actual hours worked for each employee by month using City Time data. It takes into consideration leave and overtime, and corrects for duplicate punches and no-punch, in or out.
